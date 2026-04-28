@@ -162,3 +162,4 @@ MIT License — free to use, modify, and distribute.
 ---
 
 <p align="center">Built with ❤️ for the visually impaired community</p>
+[kajal-613](https://github.com/kajal-613)
