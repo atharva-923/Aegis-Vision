@@ -1,6 +1,6 @@
 # 👁️ Aegis Vision
 
-> **Smart Assistive Goggles for the Visually Impaired**  
+> **Smart Assistive Goggles for the Visually Impaired**
 > Real-time obstacle detection, GPS tracking, and live safety dashboard — built on ESP32 + Firebase.
 
 ---
@@ -13,17 +13,6 @@ Live sensor data is streamed to a Firebase backend and displayed on a real-time 
 
 ---
 
-##👥 Collaborators
-
-This project was built collaboratively with equal contribution across different domains:
-
-Atharva — Hardware design, ESP32 integration, and Arduino firmware (sensors, GPS, Firebase communication)
-Kajal — Web dashboard development, UI/UX design, and Firebase integration
-
-🔗 Kajal’s GitHub: https://github.com/kajal-613
-
----
-
 ## ✨ Features
 
 - 🔊 **Haptic Obstacle Detection** — Vibration motor with 3 intensity zones based on distance
@@ -33,6 +22,15 @@ Kajal — Web dashboard development, UI/UX design, and Firebase integration
 - 🔐 **User Authentication** — Firebase Auth with login & sign-up support
 - 🌙 **Dark / Light Mode** — Theme toggle with map tile swap included
 - 📜 **Location History** — GPS path logged to Firestore for historical review
+
+---
+
+## 👥 Team
+
+| Name | Role | GitHub |
+|---|---|---|
+| Atharva | Hardware Design & Arduino Firmware | [@atharva-923](https://github.com/atharva-923) |
+| Kajal | Web Dashboard & Frontend Development | [@kajal-613](https://github.com/kajal-613) |
 
 ---
 
@@ -165,6 +163,8 @@ Document fields:
   ├── lng        (double)
   └── timestamp  (integer, millis)
 ```
+
+---
 
 ## 📄 License
 
