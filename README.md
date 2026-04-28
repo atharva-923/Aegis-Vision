@@ -13,6 +13,17 @@ Live sensor data is streamed to a Firebase backend and displayed on a real-time 
 
 ---
 
+##👥 Collaborators
+
+This project was built collaboratively with equal contribution across different domains:
+
+Atharva — Hardware design, ESP32 integration, and Arduino firmware (sensors, GPS, Firebase communication)
+Kajal — Web dashboard development, UI/UX design, and Firebase integration
+
+🔗 Kajal’s GitHub: https://github.com/kajal-613
+
+---
+
 ## ✨ Features
 
 - 🔊 **Haptic Obstacle Detection** — Vibration motor with 3 intensity zones based on distance
@@ -162,4 +173,3 @@ MIT License — free to use, modify, and distribute.
 ---
 
 <p align="center">Built with ❤️ for the visually impaired community</p>
-[kajal-613](https://github.com/kajal-613)
